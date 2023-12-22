@@ -1,4 +1,5 @@
 <?php
+// test
     session_start();
     include('server.php');
     include('admin_navbar.php');
